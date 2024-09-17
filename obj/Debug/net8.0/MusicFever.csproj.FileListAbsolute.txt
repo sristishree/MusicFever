@@ -1,0 +1,6 @@
+/home/sristi/F/Projects/MusicFever/obj/Debug/net8.0/MusicFever.csproj.AssemblyReference.cache
+/home/sristi/F/Projects/MusicFever/obj/Debug/net8.0/MusicFever.GeneratedMSBuildEditorConfig.editorconfig
+/home/sristi/F/Projects/MusicFever/obj/Debug/net8.0/MusicFever.AssemblyInfoInputs.cache
+/home/sristi/F/Projects/MusicFever/obj/Debug/net8.0/MusicFever.AssemblyInfo.cs
+/home/sristi/F/Projects/MusicFever/obj/Debug/net8.0/MusicFever.csproj.CoreCompileInputs.cache
+/home/sristi/F/Projects/MusicFever/obj/Debug/net8.0/MusicFever.sourcelink.json
